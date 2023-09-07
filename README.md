@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is Teja to you all.I am from Tirupati, Andhra Pradesh. I worked in TCS for 2 years as Systems Engineer and worked on AWS, Salesforce technologies.
 
 <!--
 **tejakumarsai6309/tejakumarsai6309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
